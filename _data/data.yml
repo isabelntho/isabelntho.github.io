@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Isabel Thomas
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,7 +39,7 @@ sidebar:
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Basic
 
     interests:
       title: Interests
@@ -47,10 +47,10 @@ sidebar:
         - item: Climbing
           link:
 
-        - item: Snowboarding
+        - item: Paragliding
           link:
 
-        - item: Cooking
+        - item: Hiking
           link:
 
 career-profile:
@@ -65,9 +65,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Environmental Science
+        university: University of Geneva
+        time: 2020 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,9 +76,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Geography
+        university: University College London
+        time: 2014 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -180,19 +180,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
+        level: 75%
+
+      - name: ArcGIS
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: QGIS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Google Earth Engine
         level: 85%
 
       - name: Sketch & Photoshop
