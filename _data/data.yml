@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Isabel Thomas
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 20220523_173342.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: isabelnthomas@outlook.com
