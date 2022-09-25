@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: isabelnthomas@outlook.com
     phone: 
-    timezone: America/Cancun Timezone
+    timezone: European CET Timezone
     citizenship:
 #    website: blog.webjeda.com #do not add http://
     linkedin: isabelnthomas
@@ -55,12 +55,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a final-year master’s student in Environmental Science with 2+ years’ experience 
+      as a geospatial analyst at the UK Centre for Ecology and Hydrology. I’m a creative, 
+      adaptable team player who is passionate about harnessing geospatial data to streamline 
+      environmental monitoring insights. I am highly proficient in GIS, geospatial programming 
+      and processing satellite data and I am constantly looking to develop my technical skills. 
 education:
     title: Education
     info:
@@ -68,24 +67,12 @@ education:
         university: University of Geneva
         time: 2020 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Climate change impacts, ecosystem services, remote sensing, machine learning, GIS
       - degree: BSc in Geography
         university: University College London
         time: 2014 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 experiences:
     title: Experiences
     info:
@@ -93,17 +80,8 @@ experiences:
         time: Jun - Aug 2022
         company: United Nations Environment Programme, Geneva
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Internship supporting the development of Strata, a climate
+          security analytics platform (unepstrata.org)
       - role: Spatial Data Analyst
         time: 2018 - 2020
         company: UK Centre for Ecology & Hydrology, Edinburgh, UK
@@ -176,7 +154,7 @@ skills:
         level: 75%
 
       - name: ArcGIS
-        level: 98%
+        level: 95%
 
       - name: QGIS
         level: 95%
@@ -184,8 +162,8 @@ skills:
       - name: Google Earth Engine
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Git & Version Control
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
