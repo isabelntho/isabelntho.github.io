@@ -1,7 +1,7 @@
 ---
 title: "Isabel Nicholson Thomas"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+image: "files/images/_PN92426.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
