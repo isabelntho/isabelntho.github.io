@@ -39,37 +39,23 @@ website:
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
-      - text: Group
-        href: people.qmd
 
     right: 
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+        target: _blank   
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Isabel Nicholson Thomas &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar
