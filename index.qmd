@@ -1,0 +1,75 @@
+---
+title: "Isabel Nicholson Thomas"
+description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+image: "files/images/_PN92426.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: globe
+      text: ETH
+      href: https://plus.ethz.ch/chair/people/person-detail.MzE3MjU2.TGlzdC8xMjQyLDE0MzMyMTIxNTg=.html
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:inthomas@ethz.ch    
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/isabelnthomas
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+I'm a PhD student based in the Chair of Planning of Landscape and Urban Systems [PLUS](https://plus.ethz.ch/) at ETH Zürich in Switzerland.
+
+## Experience
+
+- Researcher, Univerisity
+
+## Education
+
+- MSc Environmental Sciences, University of Geneva
+- BSc Geography, University College London (UCL)
+
+:::
+
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>
