@@ -1,5 +1,5 @@
 ---
-title: "Quarto Academic, PhD"
+title: "Isabel Nicholson Thomas"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/profiles/profile1.JPG"
 page-navigation: false
@@ -67,17 +67,7 @@ listing:
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
-
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. Favor this [repository](https://github.com/drganghe/quarto-academic-website-template) so you can easily come back to the template  
-1. Folk this template and rename it to githubusername.github.io  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `posts`, `teaching`, `projects`, and `people` as needed.
-1. Render and preview your website and commit it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
+I'm a PhD student based in the Chair of Planning of Landscape and Urban Systems [PLUS](https://plus.ethz.ch/) at ETH Zürich in Switzerland.
 
 ## Experience
 
