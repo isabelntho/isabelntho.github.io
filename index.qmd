@@ -12,40 +12,26 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
     - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+      text: ETH
+      href: https://plus.ethz.ch/chair/people/person-detail.MzE3MjU2.TGlzdC8xMjQyLDE0MzMyMTIxNTg=.html
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:inthomas@ethz.ch    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/isabelnthomas
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
       href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net
+      target: _blank
 
 listing:
   - id: recent-posts
@@ -75,7 +61,8 @@ I'm a PhD student based in the Chair of Planning of Landscape and Urban Systems 
 
 ## Education
 
-- PhD, Univerisity
+- MSc Environmental Sciences, University of Geneva
+- BSc Geography, University College London (UCL)
 
 :::
 
